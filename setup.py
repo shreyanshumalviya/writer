@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'Typer. It types for you if pasting is disabled.'
 LONG_DESCRIPTION = 'Simulates pressing of keyboard and type the copied text. Can be used if pasting is disabled.'
 
